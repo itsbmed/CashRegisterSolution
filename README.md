@@ -1,48 +1,45 @@
-## Project Description
+## Projektbeschreibung
 
-Welcome to my Cash Register App repository! This project is a Windows desktop application designed to facilitate cash register operations in a retail environment. The app allows cashiers to perform tasks such as managing cashiers, recording purchases, and generating shopping receipts.
+Sehr geehrter CK Solution Company Reviewer,
 
-### Origin and Purpose
+Ich freue mich, Ihnen mein Repository für die Cash Register App zur Überprüfung vorstellen zu dürfen. Dieses Projekt wurde als praktische Prüfung entwickelt, um meine Programmierkenntnisse zu demonstrieren und mein Potenzial als Kandidat für das Ausbildungsprogramm als Fachinformatiker für Anwendungsentwicklung in Ihrem Unternehmen aufzuzeigen.
 
-This project was assigned to me by CK Solution Company as part of their application process for their Ausbildung program as Fachinformatiker für Anwendungsentwicklung (Computer Science Apprentice for Application Development). The project served as a practical test to demonstrate my programming skills and problem-solving abilities. The company requested me to provide the source code along with executable data according to the given requirements.
+### Zweck und Ursprung
 
-### Technologies Used
+Dieses Projekt ist eine Windows-Desktop-Anwendung, die Kassenvorgänge in einer Einzelhandelsumgebung simuliert. Es ermöglicht Kassierern die Verwaltung von Transaktionen, die Registrierung neuer Kassierer und die Generierung von Einkaufsbelegen. Ich habe mich dieser Aufgabe gestellt, um Ihrer Anfrage nachzukommen, die Programmieraufgabe zu lösen und den Quellcode zusammen mit ausführbaren Daten bereitzustellen.
 
-- C# programming language
-- Windows Forms for UI development
-- .NET Framework for application development
-- Visual Studio IDE for coding and design
-- CashRegisterLibrary for business logic and data management
+### Motivation
 
-### Key Features
+Ich habe die Entwicklung der Cash Register App verfolgt, um meine C#-Programmierkenntnisse zu vertiefen und mein Verständnis von Windows Forms und Anwendungsarchitektur zu erweitern. Als angehender Fachinformatiker sah ich dies als Gelegenheit, meine Fähigkeiten in der Entwicklung realer Anwendungen zu demonstrieren.
 
-- Cashier Registration: Register new cashiers with their personal information and login credentials.
-- Login System: Secure login and authentication mechanism for cashiers.
-- Dashboard: A central dashboard displaying essential information and navigation to different app sections.
-- New Purchase: Record and calculate purchases, apply discounts, and generate shopping receipts.
-- Settings: Customize app settings, including cashier details and default discount rates.
-- Data Management: Efficiently manage cashiers, purchases, and items through the backend.
+### Technologien und Methodik
 
-### Development Process
+- **C#-Programmierung**: Ich habe die C#-Programmiersprache verwendet, um die Anwendungslogik und Benutzeroberflächen zu erstellen.
+- **Windows Forms**: Die Benutzeroberflächen der App wurden mithilfe von Windows Forms entwickelt, um eine benutzerfreundliche Erfahrung zu bieten.
+- **.NET Framework**: Die App basiert auf dem .NET Framework, um Kompatibilität und Stabilität sicherzustellen.
+- **Visual Studio**: Ich habe die Visual Studio-IDE zum Codieren, Entwerfen von Benutzeroberflächenelementen und Debuggen genutzt.
+- **CashRegisterLibrary**: Ich habe die Kernlogik der Anwendung mithilfe einer benutzerdefinierten Bibliothek für Datenverwaltung und Geschäftsregeln strukturiert.
 
-1. Project Setup: Created a Windows Forms application using Visual Studio.
-2. UI Design: Designed intuitive and responsive user interfaces for each app section.
-3. Business Logic: Implemented business logic for cashier registration, login, purchase management, and settings.
-4. Data Management: Utilized CashRegisterLibrary for data storage and retrieval.
-5. Testing: Rigorously tested the app's functionality and handled edge cases.
-6. Documentation: Added inline comments and documentation for clear code understanding.
-7. Styling and Refinement: Enhanced UI elements for a professional look and feel.
-8. Optimization: Ensured efficient data handling and responsive user experience.
+### Schlüsselfunktionen
 
-### Screenshots
+- **Kassiererregistrierung**: Effiziente Registrierung neuer Kassierer mit persönlichen Informationen und Anmeldedaten.
+- **Anmeldesystem**: Implementierung eines sicheren Anmeldeverfahrens zum Schutz von Kassierer-Konten.
+- **Dashboard**: Entwicklung eines intuitiven Dashboards für einfache Navigation und Anzeige von Informationen.
+- **Neuer Einkauf**: Umfassendes Modul zur Erfassung von Einkäufen, Anwendung von Rabatten und Generierung von Belegen.
+- **Einstellungen**: Erstellung anpassbarer App-Einstellungen zur Verwaltung von Kassierern und Standardrabatten.
+- **Datenverwaltung**: Strukturierung von Backend-Systemen zur Verwaltung von Kassierern, Einkäufen und Artikeln.
 
+### Entwicklungsverlauf
 
+1. **Einrichtung**: Erstellung der Anwendungsstruktur als Windows Forms-Projekt.
+2. **UI-Design**: Entwurf intuitiver und reaktiver Benutzeroberflächen für jeden Abschnitt der App.
+3. **Geschäftslogik**: Implementierung der Logik für Kassiererregistrierung, Anmeldung, Einkaufsverwaltung und Einstellungen.
+4. **Datenverarbeitung**: Verwendung von CashRegisterLibrary für effiziente Datenspeicherung und -abfrage.
+5. **Testen**: Rigorose Tests der Funktionalität der Anwendung und Behebung von Randfällen.
+6. **Dokumentation**: Hinzufügen von umfassenden Inline-Kommentaren und Dokumentation zur Klarheit.
+7. **Verfeinerung**: Verbesserung der Benutzeroberflächenelemente für ein poliertes und professionelles Erscheinungsbild.
+8. **Optimierung**: Gewährleistung einer effizienten Datenverarbeitung und einer responsiven Benutzererfahrung.
 
-### Usage Instructions
+### Ihre Bewertung
 
-1. Clone the repository.
-2. Open the solution in Visual Studio.
-3. Build and run the application.
-4. Register a cashier and log in to explore the app features.
-
-
+Ich freue mich auf Ihre Bewertung der Cash Register App. Ihr Feedback wird mir dabei helfen, meine Stärken zu erkennen und Bereiche zur Verbesserung zu identifizieren. Ich schätze Ihre Zeit und Überlegungen und freue mich darauf, die Gelegenheit zu nutzen,
