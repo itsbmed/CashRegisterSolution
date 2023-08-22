@@ -22,27 +22,27 @@ Ich habe die Entwicklung der Cash Register App verfolgt, um meine C#-Programmier
 
 ### Schlüsselfunktionen
 
-- **Kassiererregistrierung**: Effiziente Registrierung neuer Kassierer mit persönlichen Informationen und Anmeldedaten.
-- **Anmeldesystem**: Implementierung eines sicheren Anmeldeverfahrens zum Schutz von Kassierer-Konten.
+- **Cashier Form**: Effiziente Registrierung neuer Kassierer mit persönlichen Informationen und Anmeldedaten.
+- **Login System**: Implementierung eines sicheren Anmeldeverfahrens zum Schutz von Kassierer-Konten.
 - **Dashboard**: Entwicklung eines intuitiven Dashboards für einfache Navigation und Anzeige von Informationen.
-- **Neuer Einkauf**: Umfassendes Modul zur Erfassung von Einkäufen, Anwendung von Rabatten und Generierung von Belegen.
-- **Einstellungen**: Erstellung anpassbarer App-Einstellungen zur Verwaltung von Kassierern und Standardrabatten.
-- **Datenverwaltung**: Strukturierung von Backend-Systemen zur Verwaltung von Kassierern, Einkäufen und Artikeln.
+- **New Purchase**: Umfassendes Modul zur Erfassung von Einkäufen, Anwendung von Rabatten und Generierung von Belegen.
+- **Settings**: Erstellung anpassbarer App-Einstellungen zur Verwaltung von Kassierern und Standardrabatten.
+- **Data Management**: Strukturierung von Backend-Systemen zur Verwaltung von Kassierern, Einkäufen und Artikeln.
 
 ### Entwicklungsverlauf
 
-1. **Einrichtung**: Erstellung der Anwendungsstruktur als Windows Forms-Projekt.
+1. **Setup**: Erstellung der Anwendungsstruktur als Windows Forms-Projekt.
 2. **UI-Design**: Entwurf intuitiver und reaktiver Benutzeroberflächen für jeden Abschnitt der App.
-3. **Geschäftslogik**: Implementierung der Logik für Kassiererregistrierung, Anmeldung, Einkaufsverwaltung und Einstellungen.
-4. **Datenverarbeitung**: Verwendung von CashRegisterLibrary für effiziente Datenspeicherung und -abfrage.
-5. **Testen**: Rigorose Tests der Funktionalität der Anwendung und Behebung von Randfällen.
-6. **Dokumentation**: Hinzufügen von umfassenden Inline-Kommentaren und Dokumentation zur Klarheit.
-7. **Verfeinerung**: Verbesserung der Benutzeroberflächenelemente für ein poliertes und professionelles Erscheinungsbild.
-8. **Optimierung**: Gewährleistung einer effizienten Datenverarbeitung und einer responsiven Benutzererfahrung.
+3. **Business Logic**: Implementierung der Logik für Kassiererregistrierung, Anmeldung, Einkaufsverwaltung und Einstellungen.
+4. **Data Processing**: Verwendung von CashRegisterLibrary für effiziente Datenspeicherung und -abfrage.
+5. **Testing**: Rigorose Tests der Funktionalität der Anwendung und Behebung von Randfällen.
+6. **Documentation**: Hinzufügen von umfassenden Inline-Kommentaren und Dokumentation zur Klarheit.
+7. **Refinement**: Verbesserung der Benutzeroberflächenelemente für ein poliertes und professionelles Erscheinungsbild.
+8. **OOptimization**: Gewährleistung einer effizienten Datenverarbeitung und einer responsiven Benutzererfahrung.
 
 ### Dateispeicherung
 
-Die gespeicherten Dateien, einschließlich Kassierer-Daten, Belege und Artikel, finden Sie im folgenden Pfad:
+Die gespeicherten Dateien, einschließlich Cashier data, Receipts, and Items, finden Sie im folgenden Pfad:
 CashRegisterSolution\CashRegisterApp\bin\Debug\net6.0-windows
 
 ### Ihre Bewertung
