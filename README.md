@@ -40,6 +40,11 @@ Ich habe die Entwicklung der Cash Register App verfolgt, um meine C#-Programmier
 7. **Verfeinerung**: Verbesserung der Benutzeroberflächenelemente für ein poliertes und professionelles Erscheinungsbild.
 8. **Optimierung**: Gewährleistung einer effizienten Datenverarbeitung und einer responsiven Benutzererfahrung.
 
+### Dateispeicherung
+
+Die gespeicherten Dateien, einschließlich Kassierer-Daten, Belege und Artikel, finden Sie im folgenden Pfad:
+CashRegisterSolution\CashRegisterApp\bin\Debug\net6.0-windows
+
 ### Ihre Bewertung
 
 Ich freue mich auf Ihre Bewertung der Cash Register App. Ihr Feedback wird mir dabei helfen, meine Stärken zu erkennen und Bereiche zur Verbesserung zu identifizieren. Ich schätze Ihre Zeit und Überlegungen und freue mich darauf, die Gelegenheit zu nutzen,
