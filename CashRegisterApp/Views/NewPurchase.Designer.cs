@@ -311,12 +311,12 @@
             // finalpriceTxt
             // 
             finalpriceTxt.AutoSize = true;
-            finalpriceTxt.Location = new Point(392, 453);
+            finalpriceTxt.Location = new Point(404, 453);
             finalpriceTxt.Margin = new Padding(4, 0, 4, 0);
             finalpriceTxt.Name = "finalpriceTxt";
-            finalpriceTxt.Size = new Size(37, 15);
+            finalpriceTxt.Size = new Size(13, 15);
             finalpriceTxt.TabIndex = 6;
-            finalpriceTxt.Text = "$1150";
+            finalpriceTxt.Text = "0";
             // 
             // discountshowTxt
             // 
@@ -324,20 +324,20 @@
             discountshowTxt.Location = new Point(404, 424);
             discountshowTxt.Margin = new Padding(4, 0, 4, 0);
             discountshowTxt.Name = "discountshowTxt";
-            discountshowTxt.Size = new Size(25, 15);
+            discountshowTxt.Size = new Size(13, 15);
             discountshowTxt.TabIndex = 5;
-            discountshowTxt.Text = "$50";
+            discountshowTxt.Text = "0";
             discountshowTxt.TextAlign = ContentAlignment.TopCenter;
             // 
             // subTotalTxt
             // 
             subTotalTxt.AutoSize = true;
-            subTotalTxt.Location = new Point(392, 394);
+            subTotalTxt.Location = new Point(404, 394);
             subTotalTxt.Margin = new Padding(4, 0, 4, 0);
             subTotalTxt.Name = "subTotalTxt";
-            subTotalTxt.Size = new Size(37, 15);
+            subTotalTxt.Size = new Size(13, 15);
             subTotalTxt.TabIndex = 4;
-            subTotalTxt.Text = "$1200";
+            subTotalTxt.Text = "0";
             // 
             // label5
             // 
@@ -423,6 +423,7 @@
             Controls.Add(panel3);
             Controls.Add(panel2);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(4, 3, 4, 3);
             Name = "newPurchase";
             StartPosition = FormStartPosition.CenterScreen;

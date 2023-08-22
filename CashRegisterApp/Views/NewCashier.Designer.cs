@@ -45,7 +45,6 @@
             label1 = new Label();
             panel1 = new Panel();
             settingsBtn = new Button();
-            logouBtn = new Button();
             cashierBtn = new Button();
             homeBtn = new Button();
             Logo = new PictureBox();
@@ -232,7 +231,6 @@
             // 
             panel1.BackColor = Color.White;
             panel1.Controls.Add(settingsBtn);
-            panel1.Controls.Add(logouBtn);
             panel1.Controls.Add(cashierBtn);
             panel1.Controls.Add(homeBtn);
             panel1.Controls.Add(Logo);
@@ -254,19 +252,6 @@
             settingsBtn.TabIndex = 4;
             settingsBtn.UseVisualStyleBackColor = false;
             settingsBtn.Click += settingsBtn_Click;
-            // 
-            // logouBtn
-            // 
-            logouBtn.BackColor = Color.Transparent;
-            logouBtn.BackgroundImage = (Image)resources.GetObject("logouBtn.BackgroundImage");
-            logouBtn.BackgroundImageLayout = ImageLayout.Stretch;
-            logouBtn.Location = new Point(36, 594);
-            logouBtn.Margin = new Padding(4, 3, 4, 3);
-            logouBtn.Name = "logouBtn";
-            logouBtn.Size = new Size(47, 43);
-            logouBtn.TabIndex = 3;
-            logouBtn.UseVisualStyleBackColor = false;
-            logouBtn.Click += logouBtn_Click;
             // 
             // cashierBtn
             // 
@@ -340,7 +325,6 @@
         private Label label2;
         private Label label1;
         private Panel panel1;
-        private Button logouBtn;
         private Button cashierBtn;
         private Button homeBtn;
         private PictureBox Logo;
