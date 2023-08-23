@@ -1,7 +1,5 @@
 ## Projektbeschreibung
 
-Sehr geehrter CK Solution Company Reviewer,
-
 Ich freue mich, Ihnen mein Repository für die Cash Register App zur Überprüfung vorstellen zu dürfen. Dieses Projekt wurde als praktische Prüfung entwickelt, um meine Programmierkenntnisse zu demonstrieren und mein Potenzial als Kandidat für das Ausbildungsprogramm als Fachinformatiker für Anwendungsentwicklung in Ihrem Unternehmen aufzuzeigen.
 
 ### Zweck und Ursprung
@@ -44,6 +42,14 @@ Ich habe die Entwicklung der Cash Register App verfolgt, um meine C#-Programmier
 
 Die gespeicherten Dateien, einschließlich Cashier data, Receipts, and Items, finden Sie im folgenden Pfad:
 CashRegisterSolution\CashRegisterApp\bin\Debug\net6.0-windows
+
+### Usage Instructions
+
+1. Clone/Download the repository.
+2. Open the solution in Visual Studio.
+3. Right-Click on the CashRegisterApp Folder in the Solution Explorer -> st as startup Project
+4. Build and run the application.
+5. Register a cashier and log in to explore the app features.
 
 ### Ihre Bewertung
 
